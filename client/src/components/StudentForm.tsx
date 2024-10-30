@@ -60,7 +60,7 @@ export default function StudentForm() {
 
           <Input
             type="text"
-            props={{ name: "course", id: "course", required: true }}
+            props={{ name: "lastName", id: "lastName", required: true }}
           />
         </div>
       </div>
