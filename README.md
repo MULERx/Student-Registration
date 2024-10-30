@@ -1,0 +1,6 @@
+#ENV FOR SERVER
+#PORT=
+#MONGODB_URI=
+
+#ENV FOR CLIENT
+#VITE_API_URL=    ~http://localhost:5000/api
